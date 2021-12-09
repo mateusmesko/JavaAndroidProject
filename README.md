@@ -4,9 +4,9 @@
 
 ### estoque
 
-### iventario
+### iventario 
 
-### controle de custo
+### controle de custo 
 
  
  
